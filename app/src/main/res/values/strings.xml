@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dolar em Real</string>
+    <string name="valoDolar"> </string>
+    <string name="dolar">Digite o Valor em Dolar US$:</string>
+    <string name="cotacao">Digite o Valor da Coatação:</string>
+    <string name="visorReal">Reais em R$</string>
+    <string name="btConverter">Converter</string>
+</resources>
